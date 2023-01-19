@@ -1,7 +1,7 @@
 # TLDR;
 
 ## Prerequisites
-A `.env` file is needed in the root of the `/api` folder that contains the PORT and API_KEY values. If you want to run the service, let me know and I'll send over the `.env` file.
+An `.env` file is needed in the root of the `/api` folder that contains the PORT and API_KEY values. If you want to run the service, let me know and I'll send over the `.env` file.
 
 ## Run full service
 Open two terminals, one for the frontend and one for the backend.
